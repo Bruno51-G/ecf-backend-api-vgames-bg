@@ -78,6 +78,8 @@ L'opération doit échouer si l'une des conditions suivantes n'est pas respecté
 
 # Restitution 
 
-COMMIT + PUSH
+A la racine de votre dépôt créer un fichier `requirements.md` dans lequel vous listerez les logiciels et bibliothèques que vous avez utilisés pour développer, tester et livrer votre travail. Pour chacun d'entre eux, vous fournirez le lien vers la documentation officielle.
 
-Fournir le lien de votre dépôt à l'évaluateur
+COMMIT + PUSH votre travail.
+
+Fournir le lien de votre dépôt à l'évaluateur.
