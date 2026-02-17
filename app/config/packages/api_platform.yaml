@@ -1,5 +1,7 @@
 api_platform:
-    title: Hello API Platform
+    title: Eval GAMES du 17/02/2026
+    formats:
+        json: ['application/json']
     version: 1.0.0
     defaults:
         stateless: true
