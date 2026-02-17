@@ -60,7 +60,7 @@ Votre travail consiste à créer les entités de l'API correspondant au jeu de d
 
 **2 entités sont attendues :** 
 - Gizmondo (Endpoint = `GET /gizmondos/`)
-- Publisher (Endpoints = `GET /publishers/` 
+- Publisher (Endpoints = `GET /publishers/`)
 
 
 ### Ajouter un jeu Gizmondo

@@ -11,9 +11,9 @@ services:
       - db_data:/var/lib/mysql
     environment:
       MYSQL_ROOT_PASSWORD: rootpassword
-      MYSQL_DATABASE: db_symfony
-      MYSQL_USER: user_symfony 
-      MYSQL_PASSWORD: azer
+      MYSQL_DATABASE: db_eval
+      MYSQL_USER: eval 
+      MYSQL_PASSWORD: eval2503
   web: 
     # image: php:8.4-apache
     build: 
