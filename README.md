@@ -32,7 +32,6 @@ La Gizmondo est une console de jeux vidéo portable faisant également office d'
 ## Préparation.
 
 1. Faites un FORK de ce dépôt du votre compte Github.
-    - `git clone https://github.com/ARFP/ecf-backend-api-vgames.git` 
 
 2. Cloner le dépôt en local.
 
